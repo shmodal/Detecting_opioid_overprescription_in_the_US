@@ -14,7 +14,7 @@ The main data source is the [Automation of Reports and Consolidated Orders Syste
 which was established by the Drug Enforcement Agency (DEA). The dataset tracks the path of every opioid pain pill
 (oxycodone and hydrocodone), from manufacturer to pharmacy, in the United States between 2006 and
 2012. Also, secondary sources of data used are [US census data](https://factfinder.census.gov/) (population, age, income, population), 
-and [health indicators](www.countyhealthrankings.org) (percentage insured and number of physicians per county)
+and [health indicators](https://www.countyhealthrankings.org) (percentage insured and number of physicians per county)
 
 Methods used :
 
