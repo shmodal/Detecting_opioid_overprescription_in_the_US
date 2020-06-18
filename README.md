@@ -20,9 +20,9 @@ Methods used :
 
 (1) Visualization - Calculate metrics such as number of pills purchased per capita at the zip code
 level and visualize on heat maps.
-(3) Time series - Graph trend lines to study the rate of opioid purchases by individual pharmacies. A
+(2) Time series - Graph trend lines to study the rate of opioid purchases by individual pharmacies. A
 peak in the rate of opioid purchases may indicate the pharmacy has started to oversell opioids.
-(2) Clustering - Cluster pharmacies based on demographics, density of pharmacy in the areas,
+(3) Clustering - Cluster pharmacies based on demographics, density of pharmacy in the areas,
 number of doctors, and other external environmental factors. This serves as a proxy for regrouping pharmacies with a similar market for opioid pills.
 Within each group of similar pharmacies, we looked for outliers in number of sales.
 
